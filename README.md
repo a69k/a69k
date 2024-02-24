@@ -1,5 +1,5 @@
 ## 🚀 hi there
- 
+  cs student @ ain shams university, you'll find me writing horrible code every now and then (which is most of the time)
     
 ## 🌐 Find Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/ahmedkhaled14/) 
